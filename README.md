@@ -2,6 +2,10 @@
 
 I am sorry I am right now low on time thats why couldn't design readme properly. Someone please open up a pull request making this readme better. Just asked chatgpt to write something about the project :).
 
+## Demo
+
+<img src="./demo.png" alt="Demo of the project" />
+
 ## Introduction:
 
 The Email Waitlist Website is a web application designed to collect and store email subscriptions from users who are interested in receiving updates or being notified about a product, service, or event. It provides a simple and user-friendly interface for users to submit their email addresses and securely stores them in a MongoDB database.
