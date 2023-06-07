@@ -62,3 +62,4 @@ Access the website through a web browser using the appropriate URL (e.g., http:/
 
 The Email Waitlist Website provides developers with a complete solution for collecting and storing email subscriptions. It leverages the power of Node.js, Express, and MongoDB to deliver a robust and scalable application. By following the provided technical documentation, developers can quickly set up and run the website on their local machine, making it an ideal choice for any project that requires an email waitlist functionality.
 
+### Made on earth by bots :)
